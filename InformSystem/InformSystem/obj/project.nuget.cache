@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "IeBUizHgQp43FVq7LxVJg7HEmILtXCiyDilPmW49ITM4fIvBqngeh0fT3DprneyQ5hQjBJU2g2VI4usgTLAkww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\InformSystem\\InformSystem\\InformSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\materialskin.updated\\0.2.2\\materialskin.updated.0.2.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.8\\mysqlconnector.2.1.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MaterialSkin.Updated 0.2.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MaterialSkin.Updated",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
